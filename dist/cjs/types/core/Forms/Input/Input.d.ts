@@ -1,6 +1,5 @@
 import React from "react";
 import { InputNumberProps, InputProps } from "antd";
-import "antd/dist/antd.css";
 import "./index.css";
 export declare type InputTextProps = InputProps & {
     placeholder?: string;

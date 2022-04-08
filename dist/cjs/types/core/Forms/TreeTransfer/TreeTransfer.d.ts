@@ -1,5 +1,4 @@
 import React from "react";
-import "antd/dist/antd.css";
 import { ITreeData } from "../../types/TreeTransfer";
 interface ITreeTransferProps {
     data: ITreeData[];

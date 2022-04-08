@@ -3,7 +3,6 @@ import { FormInstance } from "antd";
 import { Store } from "antd/lib/form/interface";
 import { ValidateErrorEntity } from "rc-field-form/lib/interface";
 import React from "react";
-import "antd/dist/antd.css";
 import "./index.css";
 export interface FormProps {
     initialValues?: Store | undefined;

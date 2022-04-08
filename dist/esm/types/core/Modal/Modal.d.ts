@@ -1,5 +1,4 @@
 import React from "react";
-import "antd/dist/antd.css";
 declare type ModalProps = React.HTMLAttributes<HTMLDivElement> & {
     isOpen: boolean;
     children: React.ReactNode;
